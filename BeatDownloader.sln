@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatDownloader", "SanNhac\BeatDownloader.csproj", "{D34AA8BD-9477-4E33-A967-DB02E81AD2EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagLib", "TagLib\TagLib.csproj", "{952AD53C-707F-4D1A-8C12-57E4CD82C6F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34AA8BD-9477-4E33-A967-DB02E81AD2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34AA8BD-9477-4E33-A967-DB02E81AD2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34AA8BD-9477-4E33-A967-DB02E81AD2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34AA8BD-9477-4E33-A967-DB02E81AD2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952AD53C-707F-4D1A-8C12-57E4CD82C6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952AD53C-707F-4D1A-8C12-57E4CD82C6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952AD53C-707F-4D1A-8C12-57E4CD82C6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952AD53C-707F-4D1A-8C12-57E4CD82C6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

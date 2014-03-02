@@ -1,0 +1,10 @@
+G:\_eProject\Visual Studio 2008\Projects\SanNhac\TagLib\bin\Release\TagLib.dll
+G:\_eProject\Visual Studio 2008\Projects\SanNhac\TagLib\bin\Release\TagLib.pdb
+G:\_eProject\Visual Studio 2008\Projects\SanNhac\TagLib\obj\Release\ResolveAssemblyReference.cache
+G:\_eProject\Visual Studio 2008\Projects\SanNhac\TagLib\obj\Release\TagLib.dll
+G:\_eProject\Visual Studio 2008\Projects\SanNhac\TagLib\obj\Release\TagLib.pdb
+C:\Users\redphx\Documents\Visual Studio 2008\Projects\SanNhac\TagLib\bin\Release\TagLib.dll
+C:\Users\redphx\Documents\Visual Studio 2008\Projects\SanNhac\TagLib\bin\Release\TagLib.pdb
+C:\Users\redphx\Documents\Visual Studio 2008\Projects\SanNhac\TagLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\redphx\Documents\Visual Studio 2008\Projects\SanNhac\TagLib\obj\Release\TagLib.dll
+C:\Users\redphx\Documents\Visual Studio 2008\Projects\SanNhac\TagLib\obj\Release\TagLib.pdb
